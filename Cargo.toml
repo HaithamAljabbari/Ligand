@@ -1,0 +1,12 @@
+[package]
+name = "ligand"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+colored = "3.0.0"
+device_query = "3.0.1"
+figlet-rs = "0.1.5"
+piston_window = "0.132.0"
+rand = "0.9.1"
+rascii_art = "0.4.5"
